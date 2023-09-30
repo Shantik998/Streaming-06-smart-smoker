@@ -12,7 +12,12 @@ In summary, the project's core aim is to provide a robust and responsive monitor
 - Python 3.7+ (3.11+ preferred)
 - VS Code Editor
 - VS Code Extension: Python (by Microsoft)
-## The following modules are required:
+
+
+
+
+
+### The following modules are required:
 
 Module	: Version
 csv	: 1.0
