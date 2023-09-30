@@ -1,6 +1,7 @@
 # Streaming-06-smart-smoker
 Author : Shanti Kandel
 09/28/2023 
+
 The main objective of this project is to establish a comprehensive monitoring and notification system tailored for environments sensitive to temperature variations, such as those involved in smoking food. This system utilizes RabbitMQ message queues in conjunction with Python scripts to ensure effective temperature monitoring and alerting.
 
 The project is structured into distinct components, namely the Smoker Producer, Smoker Consumer, Food A Consumer, and Food B Consumer. Each of these consumers plays a crucial role in the system by receiving incoming temperature data messages, deciphering their content, and performing necessary data processing. The primary function of these consumers is to trigger alerts based on predefined criteria:
