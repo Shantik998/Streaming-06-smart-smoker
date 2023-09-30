@@ -8,10 +8,10 @@ Food Stall Alert: The system also issues an alert when the temperature of the fo
 In summary, the project's core aim is to provide a robust and responsive monitoring system that ensures the safety and quality of temperature-sensitive processes, such as food smoking, by promptly notifying users of critical temperature fluctuations. This is achieved through the seamless integration of RabbitMQ messaging and Python scripting components.
 # Prerequisites
 
-Git
-Python 3.7+ (3.11+ preferred)
-VS Code Editor
-VS Code Extension: Python (by Microsoft)
+- Git
+- Python 3.7+ (3.11+ preferred)
+- VS Code Editor
+- VS Code Extension: Python (by Microsoft)
 The following modules are required:
 
 Module	: Version
