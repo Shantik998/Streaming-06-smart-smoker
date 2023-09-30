@@ -27,3 +27,11 @@ In summary, the project's core aim is to provide a robust and responsive monitor
 | time           | 3.11.4  |
 | pika           | 1.3.2   |
 | collections    | 3.11.4  |
+
+
+# Terminal Screenshots
+<img width="1047" alt="bbq_producer_smoker" src="https://github.com/Shantik998/Streaming-06-smart-smoker/assets/84759571/3590602a-b2e7-4177-bf67-96d710995610">
+<img width="1091" alt="foodA_listner" src="https://github.com/Shantik998/Streaming-06-smart-smoker/assets/84759571/e53122b4-8e18-4bd8-acee-45452b957334">
+
+<img width="1389" alt="foodB_listner" src="https://github.com/Shantik998/Streaming-06-smart-smoker/assets/84759571/ea0c0d85-b885-4ed4-982d-05495c07942b">
+<img width="1659" alt="smoker_listner" src="https://github.com/Shantik998/Streaming-06-smart-smoker/assets/84759571/12ebc906-0dc4-48d5-b405-d599352391d2">
