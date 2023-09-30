@@ -5,7 +5,8 @@
     the smoker. It will also send an alert if the food has not warmed up
     by at least a degree in a 10 minute period.
 
-    Shanti Kandel 9/28/23
+    Shanti Kandel 
+    09/28/2023
 
 """
 
