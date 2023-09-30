@@ -19,14 +19,6 @@ In summary, the project's core aim is to provide a robust and responsive monitor
 
 ### The following modules are required:
 
-- **csv**: 1.0
-- **webbrowser**: 3.11.4
-- **sys**: 3.11.4
-- **time**: 3.11.4
-- **pika**: 1.3.2
-- **collections**: 3.11.4
-## Dependencies
-
 | Module         | Version |
 |----------------|---------|
 | csv            | 1.0     |
