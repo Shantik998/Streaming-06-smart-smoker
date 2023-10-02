@@ -42,3 +42,7 @@ In summary, the project's core aim is to provide a robust and responsive monitor
 <img width="1659" alt="smoker_listner" src="https://github.com/Shantik998/Streaming-06-smart-smoker/assets/84759571/12ebc906-0dc4-48d5-b405-d599352391d2">
 
 <img width="1637" alt="RabbitMQ" src="https://github.com/Shantik998/Streaming-06-smart-smoker/assets/84759571/eb97b0e7-0381-4d76-a203-953991b037b7">
+
+
+# Procedure
+- The bbq_producer_smoker.py script gathers temperature data from sensors and dispatches it to RabbitMQ message queues.There are three consumers (01-smoker_listener.py, 02-Food-A_listener.py, 02-Food-B_listener.py) that monitor their designated message queues.Each of these consumers keeps track of a moving window of temperature data, computes statistical insights, and triggers notifications when certain predefined criteria are met.
